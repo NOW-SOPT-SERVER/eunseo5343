@@ -1,5 +1,5 @@
 package org.sopt.spring.common.dto;
-//
+//왜 안될까
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import org.springframework.http.HttpStatus;
